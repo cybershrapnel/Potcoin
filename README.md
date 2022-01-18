@@ -1,9 +1,10 @@
 Potcoin integration/staging tree
 ================================
 
-THe POTcoin website and FB page have been taken over by scammers. There are no resources available for downloading the qt app. Se issues discussions on th main POTcoin repository.
+THe POTcoin website and FB page have been taken over by scammers. There are no resources available for downloading the qt app. See issues discussions on the main POTcoin repository.
+
 I am going to try to continue development of POTcoin from here.
-windows exe is available for download in release.
+windows exe is available for download in releases.
 
 Copyright (c) 2009-2015 Bitcoin Developers
 Copyright (c) 2011-2015 Litecoin Developers
